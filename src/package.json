@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.12.1",
+    "node-telegram-bot-api": "^0.65.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "prisma": "^5.12.1"
+  }
+}
